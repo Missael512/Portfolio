@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.28253d6c.css",
-    "main.js": "./static/js/main.763a39f8.js",
+    "main.js": "./static/js/main.42b4fc50.js",
     "static/media/logoIPN.png": "./static/media/logoIPN.bbe1abf59b5280e3adeb.png",
     "static/media/Recotada.jpeg": "./static/media/Recotada.89e7cc9ad8802f2b1f9c.jpeg",
     "static/media/Estadistica-1.jpg": "./static/media/Estadistica-1.e80f0fd528412af88ad7.jpg",
@@ -24,10 +24,10 @@
     "static/media/cSharp.svg": "./static/media/cSharp.0de60dd5d87534698b7bc97bf7d2d330.svg",
     "index.html": "./index.html",
     "main.28253d6c.css.map": "./static/css/main.28253d6c.css.map",
-    "main.763a39f8.js.map": "./static/js/main.763a39f8.js.map"
+    "main.42b4fc50.js.map": "./static/js/main.42b4fc50.js.map"
   },
   "entrypoints": [
     "static/css/main.28253d6c.css",
-    "static/js/main.763a39f8.js"
+    "static/js/main.42b4fc50.js"
   ]
 }
