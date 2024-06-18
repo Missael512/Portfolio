@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.28253d6c.css",
+    "main.js": "./static/js/main.763a39f8.js",
+    "static/media/logoIPN.png": "./static/media/logoIPN.bbe1abf59b5280e3adeb.png",
+    "static/media/Recotada.jpeg": "./static/media/Recotada.89e7cc9ad8802f2b1f9c.jpeg",
+    "static/media/Estadistica-1.jpg": "./static/media/Estadistica-1.e80f0fd528412af88ad7.jpg",
+    "static/media/2560px-Node.js_logo.svg.png": "./static/media/2560px-Node.js_logo.svg.fc3bd1ec69d7a50e685a.png",
+    "static/media/Kotlin_Icon.png": "./static/media/Kotlin_Icon.efbaea145a7c412d577f.png",
+    "static/media/React.png": "./static/media/React.5ba269de80a071753384.png",
+    "static/media/FaceRecognition.jpg": "./static/media/FaceRecognition.3f18cf2d791ac963cf0d.jpg",
+    "static/media/Flag_of_Mexico.svg.png": "./static/media/Flag_of_Mexico.svg.ef9f803b41ca6259898c.png",
+    "static/media/openCv.png": "./static/media/openCv.0a24ddc6667fbeb635ee.png",
+    "static/media/css.webp": "./static/media/css.8a9cb64261d07da57f4f.webp",
+    "static/media/linkIcon.png": "./static/media/linkIcon.54a064e102240965530c.png",
+    "static/media/html.webp": "./static/media/html.9ba5683e5bf3666e5666.webp",
+    "static/media/python.png": "./static/media/python.520031e8cff48202542c.png",
+    "static/media/Qr code.jpg": "./static/media/Qr code.33239c1be3d48755bdc0.jpg",
+    "static/media/excel.png": "./static/media/excel.3fc34ff2d5e4c433dbad.png",
+    "static/media/IconEncriptado.png": "./static/media/IconEncriptado.49f2f10fe47fe719785a.png",
+    "static/media/Unity.png": "./static/media/Unity.43a9b85934639cd3cbf0.png",
+    "static/media/powerBi.png": "./static/media/powerBi.1a36f6101e307eba03e5.png",
+    "static/media/JavaScript-logo.png": "./static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
+    "static/media/cSharp.svg": "./static/media/cSharp.0de60dd5d87534698b7bc97bf7d2d330.svg",
+    "index.html": "./index.html",
+    "main.28253d6c.css.map": "./static/css/main.28253d6c.css.map",
+    "main.763a39f8.js.map": "./static/js/main.763a39f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28253d6c.css",
+    "static/js/main.763a39f8.js"
+  ]
+}
